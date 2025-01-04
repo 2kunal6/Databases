@@ -5,6 +5,11 @@ name = "pypi"
 
 [packages]
 redis = "*"
+numpy = "*"
+pandas = "*"
+requests = "*"
+sentence-transformers = "*"
+tabulate = "*"
 
 [dev-packages]
 
